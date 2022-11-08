@@ -7,6 +7,7 @@ EMAIL_ADDR = os.getenv("EMAIL_ADDR")
 PASSWORD = os.getenv("PASSWORD")
 url = f"https://app.com/api/?api_key={API_KEY}"
 line = '= '*30
+
 print(line)
 print("This is my API url", url)
 print(line)
