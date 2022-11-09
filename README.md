@@ -16,3 +16,9 @@ PASSWORD = 'asdfghjkl2'
 ### '.gitignore' also created
 
 with content: ```.env```
+
+# Credit
+1. Creator of Python programming language 
+2. Creator of git and GitHub 
+3. Author of python-dotenv library
+4. ...
