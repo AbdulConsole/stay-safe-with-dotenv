@@ -7,13 +7,13 @@
 
 This is an instance of a file where the API_KEY, email and password have been hidden in the environmental variables.
 
-### Saved into '.env' file
+## Saved into '.env' file
 ```
 API_KEY = '3ebf52c0-3ebf52c0'
 EMAIL_ADDR= 'hzwedt@gmail.com'
 PASSWORD = 'asdfghjkl2'
 ```
-### '.gitignore' also created
+## '.gitignore' also created
 
 with content: ```.env```
 
